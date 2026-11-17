@@ -1,0 +1,13 @@
+{
+  "name": "stremio-imdb-votes",
+  "version": "1.0.0",
+  "description": "Stremio addon that shows IMDb rating with vote count on the details page",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "license": "MIT"
+}
